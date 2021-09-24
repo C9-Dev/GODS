@@ -1,0 +1,10 @@
+body {
+    background-color: #0099FF;
+}
+table, th, td {
+    border: 1px solid;
+}
+table {
+    width: 60%;
+    border-collapse: collapse;
+}

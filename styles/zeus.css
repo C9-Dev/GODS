@@ -1,0 +1,11 @@
+body {
+    background-color: #E8E1A1;
+}
+table, th, td {
+    border: 1px solid;
+    text-size-adjust: 20px;
+}
+table {
+    width: 60%;
+    border-collapse: collapse;
+}

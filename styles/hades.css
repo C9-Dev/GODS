@@ -1,0 +1,12 @@
+body {
+    color: #6E0C00;
+    background-color: #DDA2C1;
+}
+table, th, td {
+    border: 1px solid;
+    text-size-adjust: 20px;
+}
+table {
+    width: 60%;
+    border-collapse: collapse;
+}

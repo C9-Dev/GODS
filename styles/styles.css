@@ -1,3 +1,16 @@
+body {
+    background-color: #000011;
+    color: aliceblue;
+}
 a {
-    padding: 10px;
+    padding: 10px 10px;
+}
+iframe {
+    border-radius: 5%;
+}
+.hades, .zeus, .poseidon {
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 30%;
 }
